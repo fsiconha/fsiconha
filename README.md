@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi, I'm Siconha 🙃
+
+🫀 I really enjoy designing and building data and AI solutions.
+
+🌟 I have a great appreciation for writing code that works. It's such a pleasure.
+
+🐍 I like Python. PySpark is very cool too.
+
+🖤 Bash is awesome.
+
+🤖 Machine learning "catch me".
+
+☮️ I'm a fan of the simple.
+
+🐧 Long live Linux.
+
+📓 Maybe, someday, I will study Julia.
 
 <!--
 **fsiconha/fsiconha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

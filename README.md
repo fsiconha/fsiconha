@@ -14,6 +14,8 @@
 
 🐧 Long live Linux.
 
+💬 I think chaos theory very interesting.
+
 📓 Maybe, someday, I will study Julia.
 
 <!--
